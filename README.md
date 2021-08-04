@@ -8,5 +8,4 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=romanceformoon&label=Profile%20views&color=0e75b6&style=flat" alt="romanceformoon" /> </p>
 <p align="center">
   <a href="mailto:lmwljw98@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://facebook.com/lmwljw98"><img src="https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
