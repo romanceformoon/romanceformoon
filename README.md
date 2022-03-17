@@ -1,12 +1,12 @@
-<h1 align="center">SCRIMDOR</h1>
+<h1 align="center">DOR.GG</h1>
 <p align="center">
- <a href="https://scrimdor.gg/" target="_blank"><img src="https://scrimdor.gg/image/default_original.png" alt="scrimdor" width="200" height="200"/></a>
+ <a href="https://dor.gg/" target="_blank"><img src="https://dor.gg/image/default.png" alt="scrimdor" width="200" height="200"/></a>
  </p>
  <p align="center"><b>Matching site for Gamers around the world!</b></p>
  <br>
  <p align="center"><b>Join us</b></p>
  <p align="center">
-  <a href="https://scrimdor.gg"><img src="https://img.shields.io/badge/SCRIMDOR-000000?style=flat-square&logo=ghostery&logoColor=white"/></a>
+  <a href="https://dor.gg"><img src="https://img.shields.io/badge/DOR.GG-000000?style=flat-square&logo=ghostery&logoColor=white"/></a>
   <a href="https://discord.com/invite/FzKxq4XBUk"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 </p>
 
@@ -34,5 +34,4 @@
 <p><b>Contact me</b></p>
 <p>
   <a href="mailto:romanceformoon1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
- <a href="https://steamcommunity.com/id/lubbo12345"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white"/></a>
 </p>
