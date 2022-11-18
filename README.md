@@ -1,37 +1,46 @@
-<h1 align="center">DOR.GG</h1>
-<p align="center">
- <a href="https://dor.gg/" target="_blank"><img src="https://dor.gg/image/default.png" alt="scrimdor" width="200" height="200"/></a>
- </p>
- <p align="center"><b>Matching site for Gamers around the world!</b></p>
+<div align="center">
+ 
+ ## 💡 Working on
+ 
+ [![DOR.GG](https://img.shields.io/website-up-down-white-black/https/dor.gg.svg?label=DOR.GG&style=for-the-badge&logo=ghostery&logoColor=white)](https://dor.gg)
+ 
  <br>
- <p align="center"><b>Join us</b></p>
- <p align="center">
-  <a href="https://dor.gg"><img src="https://img.shields.io/badge/DOR.GG-000000?style=flat-square&logo=ghostery&logoColor=white"/></a>
-  <a href="https://discord.com/invite/FzKxq4XBUk"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
-</p>
-
-<br>
-<hr>
- <p><b>About me</b></p>
+ 
+ ## 📝 Blog
  <p>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="http://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=v&logoColor=white"/>
+ </p>
+ <br>
+ 
+ ## 🚀 Skills
+ <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
  </p>
  <p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
- <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
  </p>
  <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
  </p>
-<hr>
-<p><b>Contact me</b></p>
-<p>
-  <a href="mailto:romanceformoon1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+ <br>
+ 
+ ## 📱 Contact
+ <p>
+   <a href="mailto:romanceformoon1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ </p>
+ <br>
+ <br>
+ 
+ <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanceformoon&theme=blue-green"/>
+ </p>
+ 
+</div>
