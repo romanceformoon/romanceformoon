@@ -5,12 +5,7 @@
  [![DOR.GG](https://img.shields.io/website-up-down-white-black/https/dor.gg.svg?label=DOR.GG&style=for-the-badge&logo=ghostery&logoColor=white)](https://dor.gg)
  
  <br>
- 
- ## 📝 Blog
- <p>
-  <img src="http://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=v&logoColor=white"/>
- </p>
- <br>
+
  
  ## 🚀 Skills
  <p>
